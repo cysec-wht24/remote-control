@@ -1,2 +1,5 @@
 # extra stuff
 notes
+
+# secrets
+*.env

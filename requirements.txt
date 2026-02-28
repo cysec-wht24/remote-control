@@ -1,2 +1,6 @@
 flask
-jwt
+PyJWT
+mysql-connector-python
+bcrypt
+requests
+flask_sqlalchemy
